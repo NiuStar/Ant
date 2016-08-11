@@ -2,7 +2,8 @@
 网络爬虫服务
 
 这个是源码
-需要这个服务的可以调用https://cninct.com/Ant以POST方式提交需要爬取的信息
+需要这个服务的可以调用https://cninct.com/Ant
+以POST方式提交需要爬取的信息
 
 示例：
 
